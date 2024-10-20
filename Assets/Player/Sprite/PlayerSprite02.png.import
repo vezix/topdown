@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dbak85ly73gsn"
-path="res://.godot/imported/Shadow.png-9e6fa081c0d85ec947ba76398f4e9276.ctex"
+uid="uid://dfl8nv57edyvh"
+path="res://.godot/imported/PlayerSprite02.png-55940b446c65c19a5b906a49a4e73b59.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Tile Maps/Shadow.png"
-dest_files=["res://.godot/imported/Shadow.png-9e6fa081c0d85ec947ba76398f4e9276.ctex"]
+source_file="res://Assets/Player/Sprite/PlayerSprite02.png"
+dest_files=["res://.godot/imported/PlayerSprite02.png-55940b446c65c19a5b906a49a4e73b59.ctex"]
 
 [params]
 

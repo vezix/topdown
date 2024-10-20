@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dh4ge4ascur60"
-path="res://.godot/imported/SwordSwoosh.wav-8822e275ac878c68fc90afba10ec845c.sample"
+path="res://.godot/imported/SwordSwoosh.wav-182f9f37b11f4411e5d2fab3560c687f.sample"
 
 [deps]
 
-source_file="res://Assets/Sfx/SwordSwoosh.wav"
-dest_files=["res://.godot/imported/SwordSwoosh.wav-8822e275ac878c68fc90afba10ec845c.sample"]
+source_file="res://Assets/Player/Audio/SwordSwoosh.wav"
+dest_files=["res://.godot/imported/SwordSwoosh.wav-182f9f37b11f4411e5d2fab3560c687f.sample"]
 
 [params]
 
