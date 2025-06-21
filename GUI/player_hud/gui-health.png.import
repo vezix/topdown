@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bpja372fxxhji"
-path="res://.godot/imported/Props.png-c476d22603311183687b42240e7dc520.ctex"
+uid="uid://c5vqlr3g21pww"
+path="res://.godot/imported/gui-health.png-aef036b7ece4ade13823322a2db2c0de.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Tile Maps/Props.png"
-dest_files=["res://.godot/imported/Props.png-c476d22603311183687b42240e7dc520.ctex"]
+source_file="res://GUI/player_hud/gui-health.png"
+dest_files=["res://.godot/imported/gui-health.png-aef036b7ece4ade13823322a2db2c0de.ctex"]
 
 [params]
 

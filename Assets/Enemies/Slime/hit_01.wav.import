@@ -2,13 +2,13 @@
 
 importer="wav"
 type="AudioStreamWAV"
-uid="uid://b0trvj8sc2lg3"
-path="res://.godot/imported/hit_player.wav-3f298638c6bb6edc720d55e27b79e63c.sample"
+uid="uid://cyionw7xlca4j"
+path="res://.godot/imported/hit_01.wav-e8c3894cf218f3ea2e4ccf103dc56388.sample"
 
 [deps]
 
-source_file="res://Assets/Sfx/hit_player.wav"
-dest_files=["res://.godot/imported/hit_player.wav-3f298638c6bb6edc720d55e27b79e63c.sample"]
+source_file="res://Assets/Enemies/Slime/hit_01.wav"
+dest_files=["res://.godot/imported/hit_01.wav-e8c3894cf218f3ea2e4ccf103dc56388.sample"]
 
 [params]
 

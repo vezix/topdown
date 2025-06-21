@@ -1,8 +1,10 @@
-[gd_scene load_steps=4 format=3 uid="uid://cll5g8sedfgis"]
+[gd_scene load_steps=5 format=3 uid="uid://cll5g8sedfgis"]
 
 [ext_resource type="Texture2D" uid="uid://b2vkftjyv41u" path="res://Assets/Tile Maps/Grass-01.png" id="1_fblfc"]
+[ext_resource type="Script" path="res://Assets/Tile Maps/TileMap.gd" id="2_mbb5j"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_a07pr"]
+resource_name = "Main"
 texture = ExtResource("1_fblfc")
 texture_region_size = Vector2i(32, 32)
 0:0/0 = 0
@@ -447,6 +449,7 @@ texture_region_size = Vector2i(32, 32)
 6:7/0 = 0
 6:7/0/physics_layer_0/polygon_0/points = PackedVector2Array(-9, -16, -16, -16, -16, 16, -9, 16)
 7:7/0 = 0
+7:7/0/physics_layer_0/polygon_0/points = PackedVector2Array(-16, -16, 16, -16, 16, 16, -16, 16)
 8:7/0 = 0
 9:7/0 = 0
 9:7/0/physics_layer_0/polygon_0/points = PackedVector2Array(-16, -16, 16, -16, 16, 16, -16, 16)
@@ -474,3 +477,5 @@ sources/0 = SubResource("TileSetAtlasSource_a07pr")
 [node name="Grass-01" type="TileMapLayer"]
 z_index = -1
 tile_set = SubResource("TileSet_0pqe3")
+rendering_quadrant_size = 32
+script = ExtResource("2_mbb5j")
